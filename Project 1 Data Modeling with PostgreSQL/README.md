@@ -82,7 +82,7 @@ For this project we used a Star Schema with one main Fact table containing all t
 
 ### Contact
 
-Yahia FERCHOULI 
+* **Yahia FERCHOULI** /  
 y.ferchouli@outlook.fr
 [LinkedIn](https://www.linkedin.com/in/yahia-ferchouli-95a15b188)
 
