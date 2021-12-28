@@ -39,7 +39,7 @@ In this project, we will model the data with Postgres and build an ETL pipeline 
 
 ### Database Schema
 
-![database](./images/database.png)
+![database](./images/Database.png)
 
 For this project we used a Star Schema with one main Fact table containing all the measures associated to each event(user actions), and 4 Dimensions tables, each one with a primary Key that is being referenced from the Fact table.
 
